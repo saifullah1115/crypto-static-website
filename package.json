@@ -1,6 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://saifullah1115.github.io/crypto-static-website/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.6",
@@ -29,11 +30,7 @@
       "react-app/jest"
     ]
   },
-  "keyname":  {
-    "homepage": "http://saifullah1115.github.io/github-pages/",
-    "name": "github-pages",
-    "version": "0.1.0"
-  },
+
   "browserslist": {
     "production": [
       ">0.2%",
