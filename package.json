@@ -29,6 +29,11 @@
       "react-app/jest"
     ]
   },
+  "keyname":  {
+    "homepage": "http://saifullah1115.github.io/github-pages/",
+    "name": "github-pages",
+    "version": "0.1.0"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
